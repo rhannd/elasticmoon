@@ -1,4 +1,4 @@
-baseurl = "https://www.example.com/"
+baseurl = "https://cartographer-snake-14114.netlify.com"
 languageCode = "en-us"
 title = "Elasticmoon"
 theme = "blackburn"
