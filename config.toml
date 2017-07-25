@@ -13,7 +13,7 @@ paginate = 10
 
 [params]
   # Shown in the home page
-  subtitle = "A Hugo Theme"
+  subtitle = "Camping and outdoor adventure in BC"
   brand = "Elasticmoon"
   googleAnalytics = "Your Google Analytics tracking ID"
   #disqus = "Your Disqus shortname"
